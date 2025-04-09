@@ -136,14 +136,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynGgJZFgWA74VqTTcelF-57" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#000000;exitX=0.95;exitY=0.733;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynGgJZFgWA74VqTTcelF-12" target="ynGgJZFgWA74VqTTcelF-61">
+        <mxCell id="ynGgJZFgWA74VqTTcelF-57" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#000000;exitX=0.95;exitY=0.733;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynGgJZFgWA74VqTTcelF-12" target="ynGgJZFgWA74VqTTcelF-61">
           <mxGeometry x="-0.0437" y="3" width="160" relative="1" as="geometry">
             <mxPoint x="470" y="460" as="sourcePoint" />
             <mxPoint x="590" y="420" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynGgJZFgWA74VqTTcelF-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.03;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ynGgJZFgWA74VqTTcelF-9" target="ynGgJZFgWA74VqTTcelF-61">
+        <mxCell id="ynGgJZFgWA74VqTTcelF-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fillColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynGgJZFgWA74VqTTcelF-9" target="ynGgJZFgWA74VqTTcelF-61">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="480" y="570" as="sourcePoint" />
             <mxPoint x="650" y="470" as="targetPoint" />
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ynGgJZFgWA74VqTTcelF-61" value="checar estoque" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="465" width="100" height="60" as="geometry" />
+          <mxGeometry x="630" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ynGgJZFgWA74VqTTcelF-63" value="validar fornecedor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="810" y="150" width="100" height="60" as="geometry" />
